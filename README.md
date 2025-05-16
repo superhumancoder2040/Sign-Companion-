@@ -1,6 +1,9 @@
 # Sign-Companion-Revolutionizing Sign Language Recognition
+
 -Developed real-time Sign Language Recognition System which utilizes Python, OpenCV and Teachable Machine Model to recognize and interpret sign language gestures
+
 -Created our own dataset of 4500 images using python on which Model is trained.
+
 - Achieved System Accuracy of 94.45%  for Gestures recognition. 
 
 Also added a Unpublish research paper, We are in middle of the process of publishing a research of this project. If you dont wish to run program on your local computer , we have got some outputs/glimpse after running this program , you can watch it here. :- https://drive.google.com/drive/u/1/folders/1KXTXMeBpuftTOJsSUpNWuvaPdzTiy5Ov
